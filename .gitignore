@@ -1,0 +1,8 @@
+node_modules
+bower_components
+build/
+dist/
+/bower.json
+*sass-cache
+*.css.map
+# add whatever you need #
